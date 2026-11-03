@@ -1,2 +1,0 @@
-"rank","model_id","model_structure","n","K","AIC","AICc","delta_AICc","akaike_weight","cumulative_weight","R2","adjusted_R2"
-1,"M26","ctmax ~ species_group * habitat + weight_g + habitat:weight_g + fultons_k + parasite_burden_percent",97,9,235.567991153909,237.636956671151,0,0.592700365905765,0.592700365905765,0.745509795973392,0.725493712510625

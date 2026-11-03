@@ -1,0 +1,5 @@
+species,site_type,n_fish,n_parasite_burden,n_parasite_missing,n_parasite_present,mean_ctmax
+Grayling,lake,25,24,1,20,27.008
+Grayling,river,31,28,3,3,29.13225806451613
+Lenok,lake,28,27,1,28,26.875
+Lenok,river,16,14,2,2,29.6

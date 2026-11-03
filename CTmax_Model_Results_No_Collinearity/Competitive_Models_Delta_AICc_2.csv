@@ -1,4 +1,0 @@
-"rank","model_id","model_structure","n","K","AIC","AICc","delta_AICc","akaike_weight","cumulative_weight","max_VIF","R2","adjusted_R2"
-1,"M15","ctmax ~ species_group * habitat + fultons_k + parasite_burden_percent",97,7,241.030231785053,242.288658751345,0,0.350401430476177,0.350401430476177,3.1399606882546,0.719433375661921,0.704017627071916
-2,"M08","ctmax ~ species_group * habitat + weight_g + habitat:weight_g + parasite_burden_percent",97,8,240.947779296778,242.584142933141,0.295484181795928,0.30227504579612,0.652676476272297,3.7205997253065,0.725392546981911,0.707085383447372
-3,"M10","ctmax ~ species_group * habitat + weight_g + habitat:weight_g + parasite_burden_percent + start_temp",97,9,241.589919557228,243.658885074469,1.37022632312355,0.176613950490754,0.829290426763051,4.55013745853994,0.729209873384671,0.707911773538521

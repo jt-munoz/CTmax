@@ -1,5 +1,0 @@
-site_type,species_group,otolith_matched,match_source,n
-lake,Grayling,TRUE,sample_id,25
-lake,Lenok,TRUE,sample_id,28
-river,Grayling,TRUE,sample_id_changed,31
-river,Lenok,TRUE,sample_id,16
