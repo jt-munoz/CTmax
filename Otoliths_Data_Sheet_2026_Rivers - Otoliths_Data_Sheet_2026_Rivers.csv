@@ -1,0 +1,111 @@
+sample_id,sample_id_changed,date (Y/M/D),site_name,lat_dd,long_dd,species,mesh_size,net_number,tl_mm,fl_mm,sd_mm,sex,gillraker_count,c,o,sr,op,ch_1,ch_2,lmx,lmd,io,h_1,h_2,ad,pd,pv,av,dc,ac,ld,hd,ha,la,lp,hp,lv,hv,pl,d,a,p,v,ll,Q (g),q (g),egg_development,Body weight without viscera (g) ,Stomach weight (g),Stomach content,Liver weight (burbot) g ,Otolith (YES/NO),Parasite load/in grams (cysts for Lenok),Nematode parasite in g for Lenok,Notes
+G136,BG001,7/21/2026,Selenge Refuge,49.43273,103.48537,Baikal grayling,,Angling,220,202,165,M,18,,10.2,,,,,,,,,10.4,,,,,,,,,,,,,,,,,,,,,98.7,0.17,,88.2,3.94,,,Yes,0,,MS; juvenile
+G137,BG002,7/21/2026,Selenge Refuge,49.43273,103.48537,Baikal grayling,,Angling,128,118,101,F,16,,7,,,,,,,,,6.5,,,,,,,,,,,,,,,,,,,,,17.43,,,15.58,0.73,,,Yes,0,,MS; juvenile; too small to weigh gonads
+BL033,,7/22/2026,Eg-Selenge Camp,49.43888,103.48928,Lenok,,Angling,213,196,176,M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,72.05,0.07,,54.24,2,,,Yes,,0.35,Juvenile
+D001,,7/22/2026,Lower Eg Spring,49.421632,103.641232,Dace,,Angling,200,183,164,M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,80,0.25,1,68.8,3.63,,,Yes,0,,1 otolith
+G138,BG003,7/22/2026,Selenge Refuge,49.43273,103.48537,Baikal grayling,,Angling,289,264,231,M,16,,12,,,,,,,,,18,,,,,,,,,,,,,,,,,,,,,191.6,0.67,2,152.9,4.66,,,Yes,0.05,,
+D002,,7/22/2026,Lower Eg Spring,49.421632,103.641232,Dace,,Angling,205,180,160,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,74.2,2.48,3,64.7,,Empty,,Yes,0,,1 otolith
+D003,,7/22/2026,Lower Eg Spring,49.421632,103.641232,Dace,,Angling,196,171,149,M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,59.6,0.19,1,55.54,1.07,,,Yes,0,,1 otolith
+P008,,7/22/2026,Lower Eg Spring,49.421632,103.641232,Perch,,Angling,227,216,187,M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,162.3,1.13,1,148.2,1.32,,,Yes,0,,
+D004,,7/22/2026,Lower Eg Spring,49.421632,103.641232,Dace,,Angling,162,144,132,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,45.4,1.28,,38.29,,Empty,,No,0,,Juvenile
+P009,,7/22/2026,Lower Eg Spring,49.421632,103.641232,Perch,,Angling,229,216,188,M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,142.3,0.61,,132.6,1.29,,,Yes,0,,
+D005,,7/22/2026,Lower Eg Spring,49.421632,103.641232,Dace,,Angling,212,192,170,M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,88.5,0.49,1,79.2,,,,No,0,,
+D006,,7/22/2026,Lower Eg Spring,49.421632,103.641232,Dace,,Angling,238,216,187,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,127.2,5.67,2,111.5,,,,Yes,0,,
+D007,,7/22/2026,Lower Eg Spring,49.421632,103.641232,Dace,,Angling,172,156,129,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,45.2,1.67,1,37.27,,,,Yes,0,,1 otolith broken
+D008,,7/22/2026,Lower Eg Spring,49.421632,103.641232,Dace,,Angling,159,138,122,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,37,1.38,1,31.63,,,,Yes,0,,1 otolith 
+D009,,7/22/2026,Lower Eg Spring,49.421632,103.641232,Dace,,Angling,176,162,141,M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,52,0.16,1,46.28,,,,Yes,0,,1 otolith 
+CTM_BL023,,7/23/2026,Eg-Selenge Camp,49.43888,103.48928,Lenok,,Angling,192,176,165,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,63.7,,,59.2,1.23,,,Yes,0,,MS; FC; juvenile too young to tell sex
+CTM_BL024,,7/23/2026,Eg-Selenge Camp,49.43888,103.48928,Lenok,,Angling,193,176,162,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,57.3,,,52.8,1.63,,,Yes,0,,MS; FC; juvenile too young to tell sex
+CTM_BL025,,7/23/2026,Eg-Selenge Camp,49.43888,103.48928,Lenok,,Angling,169,156,144,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40.4,,,37.2,1.26,,,Yes,0,,MS; FC; juvenile too young to tell sex
+P008,,7/26/2026,Eg-Selenge Camp,49.43888,103.48928,Perch,,Angling,231,,195,M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,171.7,0.28,2,148.3,11.59,"3 unknown fish in stomach, fish in mouth",,Yes,0,,DUPLICATE
+P009,,7/26/2026,Eg-Selenge Camp,49.43888,103.48928,Perch,,Angling,237,,195,M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,165.4,0.62,3,150.7,1.71,1 unknown fish,,Yes,0,,"DUPLICATE, only 1 gonad, 1 otolith broke"
+P010,,7/26/2026,Eg-Selenge Camp,49.43888,103.48928,Perch,,Angling,165,,138,M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49.6,0.03,1,45.3,1,1 caddisfly,,Yes,0,,
+P011,,7/26/2026,Eg-Selenge Camp,49.43888,103.48928,Perch,,Angling,223,,187,M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,153.6,1.18,3,136.8,5.71,3 unknown fish ,,Yes,0,,
+P012,,7/26/2026,Eg-Selenge Camp,49.43888,103.48928,Perch,,Angling,250,,209,M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,204.8,0.28,2,184,7.09,5 unknown fish,,Yes,0,,
+G139,BG004,7/26/2026,Selenge Refuge,49.43273,103.48537,Baikal grayling,,Angling,218,205,186,,,,10,,,,,,,,,12.9,,,,,,,,,,,,,,,,,,,,,73.45,,,,,,,No,,,Too mushy for other data and otoliths
+CTM_BL026,,7/26/2026,Eg-Selenge Camp,49.43888,103.48928,Lenok,,Angling,200,185,170,M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,75.32,,1,61.96,2,,,Yes,0,,"Juvénile, too young to weigh gonads"
+G140,BG005,7/26/2026,Eg-Uur Camp,50.32802,101.86992,Baikal grayling,,Angling,172,156,145,,18,,8.1,,,,,,,,,10,,,,,,,,,,,,,,,,,,,,,38.4,,,35.2,1.19,,,Yes,0,,"Juvénile, MS, CTM failed exp. Due to machine failure, too young to sex"
+BL034,,7/26/2026,Eg-Uur Camp,50.32802,101.86992,Lenok,,Angling,213,196,181,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,80.8,0.13,1,74.6,1.74,,,Yes,0,,"Juvénile, MS, FC, CTM failed exp. Due to machine failure"
+CTM_G030,CTM_BG001,8/1/2026,Eg-Uur Camp,50.32802,101.86992,Baikal grayling,,Angling,235,216,208,F,15,,9,,,,,,,,,14,,,,,,,,,,,,,,,,,,,,,102.3,0.97,2,94.9,2.32,,,Yes,0,,MS
+CTM_G031,CTM_BG002,8/1/2026,Eg-Uur Camp,50.32802,101.86992,Baikal grayling,,Angling,183,167,156,,19,,9,,,,,,,,,10.9,,,,,,,,,,,,,,,,,,,,,46.2,,,42.4,1.34,,,Yes,0,,"MS, juvenile and gonads too light to weigh"
+CTM_G032,CTM_BG003,8/1/2026,Eg-Uur Camp,50.32802,101.86992,Baikal grayling,,Angling,178,164,151,,15,,8,,,,,,,,,10.1,,,,,,,,,,,,,,,,,,,,,40.2,,,37.4,1,,,Yes,0,,"MS, juvenile and gonads too light to weigh"
+CTM_G033,CTM_BG004,8/1/2026,Eg-Uur Camp,50.32802,101.86992,Baikal grayling,,Angling,161,145,134,F,17,,9.1,,,,,,,,,8.8,,,,,,,,,,,,,,,,,,,,,30.6,0.08,,27,1.24,,,Yes,0,,MS; juvenile
+CTM_G034,CTM_BG005,8/1/2026,Eg-Uur Camp,50.32802,101.86992,Baikal grayling,,Angling,169,155,142,F,18,,9.2,,,,,,,,,10.1,,,,,,,,,,,,,,,,,,,,,36.6,0.17,1,32.1,1.7,,,Yes,0,,MS; lost equilibrium immediately in CTMax 
+CTM_BL027,,8/1/2026,Eg-Uur Camp,50.32802,101.86992,Lenok,,Angling,259,240,219,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,144.2,0.23,Six - 2,134.9,2.61,,,Yes,0,,MS; FC
+CTM_G036,CTM_BG007,8/2/2026,Uur Spring,50.31187,101.894468,Baikal grayling,,Angling,280,254,235,F,15,,10.4,,,,,,,,,13.7,,,,,,,,,,,,,,,,,,,,,192,2.43,Two - 3,172.7,6.52,Ants,,Yes,,,"1 parasite inside of swim bladder, get coordinates from Wyatt for the Eg Spring, MS"
+CTM_G035,CTM_BG006,8/2/2026,Uur Spring,50.31187,101.894468,Baikal grayling,,Angling,272,248,226,M,17,,7.4,,,,,,,,,13.6,,,,,,,,,,,,,,,,,,,,,153.3,1.63,3,138,5.39,Ants,,Yes,0,,MS
+CTM_G038,CTM_BG009,8/2/2026,Uur Spring,50.31187,101.894468,Baikal grayling,,Angling,222,204,184,M,15,,6,,,,,,,,,9.5,,,,,,,,,,,,,,,,,,,,,84.8,0.75,Two - 3,,2.1,,,Yes,0,,MS
+CTM_BL028,,8/2/2026,Uur Spring,50.31187,101.894468,Lenok,,Angling,277,258,237,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,190.6,0.03,Six - 2,178.6,2.53,,,Yes,,,"1 parasite, MS, FC, we did not get all the gonads but given this is a big Lenok and the gonads were small, we think that this is a female that just released eggs"
+CTM_G037,CTM_BG008,8/2/2026,Uur Spring,50.31187,101.894468,Baikal grayling,,Angling,250,227,212,M,17,,9.8,,,,,,,,,15.7,,,,,,,,,,,,,,,,,,,,,124.4,1.24,Two - 3,115.6,2.86,,,Yes,,,MS; gillraker parasites (10 +)
+CTM_BL029,,8/2/2026,Uur Spring,50.31187,101.894468,Lenok,,Angling,210,195,176,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,65.9,0.07,,61.1,1.22,,,Yes,0,,MS; FC; juvenile
+CTM_G039,CTM_BG010,8/2/2026,Eg-Uur Camp,50.32802,101.86992,Baikal grayling,,Angling,190,173,161,F,17,,8.9,,,,,,,,,10.9,,,,,,,,,,,,,,,,,,,,,46.6,,,42,1.7,Beetle; ants,,Yes,0,,MS; juvenile
+CTM_G044,CTM_BG015,8/3/2026,Uur Spring,50.31187,101.894468,Baikal grayling,,Angling,208,190,175,F,19,,9.9,,,,,,,,,12,,,,,,,,,,,,,,,,,,,,,66.5,0.66,2,61.7,1.54,Ants,,Yes,0,,MS
+CTM_G043,CTM_BG014,8/3/2026,Uur Spring,50.31187,101.894468,Baikal grayling,,Angling,249,225,211,F,18,,10,,,,,,,,,16.5,,,,,,,,,,,,,,,,,,,,,133.9,0.63,One - 2,123.1,2.12,Empty,,Yes,,,"MS; 1 otolith, 3-4 gill parasites"
+CTM_G041,CTM_BG012,8/3/2026,Uur Spring,50.31187,101.894468,Baikal grayling,,Angling,240,220,206,M,17,,12.1,,,,,,,,,14,,,,,,,,,,,,,,,,,,,,,99.4,1.49,3,91.1,2.55,,,Yes,0,,MS; 1 otolith
+CTM_BL032,,8/3/2026,Uur Spring,50.31187,101.894468,Lenok,,Angling,278,253,236,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,179.9,0.14,Six - 2,169.2,3.05,,,Yes,0,,MS; FC
+CTM_G040,CTM_BG011,8/3/2026,Uur Spring,50.31187,101.894468,Baikal grayling,,Angling,171,,145,,16,,9.1,,,,,,,,,10.9,,,,,,,,,,,,,,,,,,,,,36.8,,,34.3,0.93,,,Yes,0,,MS; juvenile; fork ripped
+CTM_BL031,,8/3/2026,Uur Spring,50.31187,101.894468,Lenok,,Angling,342,312,293,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,331,0.16,Six - 2,308,4.28,Empty,,Yes,,,"10+ nématodes, MS, FC"
+CTM_BL030,,8/3/2026,Uur Spring,50.31187,101.894468,Lenok,,Angling,286,264,242,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,196.3,0.1,Six - 2,184.7,2.37,,,Yes,0,,"MS, FC"
+CTM_G042,CTM_BG013,8/3/2026,Uur Spring,50.31187,101.894468,Baikal grayling,,Angling,256,232,210,M,18,,7.6,,,,,,,,,12.4,,,,,,,,,,,,,,,,,,,,,140.1,1.24,3,128.4,3,,,Yes,0,,MS; 1 otolith
+CTM_G046,CTM_BG017,8/3/2026,Uur Spring,50.31187,101.894468,Baikal grayling,,Angling,166,146,134,F,16,,7.5,,,,,,,,,10.4,,,,,,,,,,,,,,,,,,,,,38.7,0.07,1,34.8,1,,,Yes,0,,MS
+CTM_G045,CTM_BG016,8/3/2026,Uur Spring,50.31187,101.894468,Baikal grayling,,Angling,214,,173,M,16,,10,,,,,,,,,12.4,,,,,,,,,,,,,,,,,,,,,75.6,0.25,1,69.8,1.76,,,Yes,0,,"MS, fork broken "
+G141,BG006,8/3/2026,Uur Spring,50.31187,101.894468,Baikal grayling,,Angling,173,159,142,F,18,,9.2,,,,,,,,,10.2,,,,,,,,,,,,,,,,,,,,,37.2,0.13,1,33.7,0.98,,,Yes,0,,MS
+CTM_G048,CTM_BG019,8/4/2026,Eg-Uur Camp,50.32802,101.86992,Baikal grayling,,Angling,182,168,152,,14,,9.2,,,,,,,,,11.1,,,,,,,,,,,,,,,,,,,,,49.6,,,45.8,1.5,Ants,,Yes,0,,MS; juvenile
+CTM_BL033,,8/4/2026,Eg-Uur Camp,50.32802,101.86992,Lenok,,Angling,246,230,211,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,121.6,0.25,1,112.8,2.88,Empty,,Yes,0,,MS; FC; Sophia's first fish on the fly rod!!
+CTM_G047,CTM_BG018,8/4/2026,Eg-Uur Camp,50.32802,101.86992,Baikal grayling,,Angling,248,227,206,F,18,,11,,,,,,,,,15.4,,,,,,,,,,,,,,,,,,,,,125.3,1.62,3,114.8,3.48,,,Yes,0,,MS
+G142,BG007,8/5/2026,Uur Spring,50.31187,101.894468,Baikal grayling,,Angling,255,234,216,F,18,,11.5,,,,,,,,,14.2,,,,,,,,,,,,,,,,,,,,,131,2.16,3,114.8,5.49,Ants,,Yes,0,,No MS
+G143,BG008,8/5/2026,Uur Spring,50.31187,101.894468,Baikal grayling,,Angling,167,153,140,,19,,8.1,,,,,,,,,10,,,,,,,,,,,,,,,,,,,,,38.1,,,35,1.2,,,Yes,0,,MS; juvenile; 1 otolith; too young for sex and gonad weight
+G144,BG009,8/5/2026,Uur Spring,50.31187,101.894468,Baikal grayling,,Angling,144,,120,,18,,8.1,,,,,,,,,7.9,,,,,,,,,,,,,,,,,,,,,24.3,,,22,0.99,,,Yes,0,,MS; juvenile; 1 otolith; too young for sex and gonad weight; fork ripped
+CTM_G052,CTM_BG023,8/5/2026,Uur Spring,50.31187,101.894468,Baikal grayling,,Angling,191,175,162,,17,,9,,,,,,,,,12.1,,,,,,,,,,,,,,,,,,,,,57.5,,,52.7,1.68,,,Yes,0,,MS; juvenile; too young for sex and gonad weight
+CTM_G050,CTM_BG021,8/5/2026,Uur Spring,50.31187,101.894468,Baikal grayling,,Angling,181,163,151,F,19,,9.5,,,,,,,,,10.3,,,,,,,,,,,,,,,,,,,,,41,0.17,1,37.7,0.14,,,Yes,0,,MS
+CTM_G051,CTM_BG022,8/5/2026,Uur Spring,50.31187,101.894468,Baikal grayling,,Angling,172,158,146,F,16,,9.1,,,,,,,,,10.4,,,,,,,,,,,,,,,,,,,,,36.8,0.03,,33.6,0.87,,,Yes,0,,MS; juvenile; 1 otolith
+CTM_G053,CTM_BG024,8/5/2026,Uur Spring,50.31187,101.894468,Baikal grayling,,Angling,171,154,139,F,18,,8.5,,,,,,,,,11.4,,,,,,,,,,,,,,,,,,,,,43.1,0.17,One - 2,39.2,1.18,,,Yes,0,,MS
+CTM_G054,CTM_BG025,8/5/2026,Uur Spring,50.31187,101.894468,Baikal grayling,,Angling,172,156,140,,16,,9.1,,,,,,,,,10.6,,,,,,,,,,,,,,,,,,,,,38.9,,,36,1.23,,,Yes,0,,One gonad found; juvenile; MS
+CTM_G055,CTM_BG026,8/5/2026,Uur Spring,50.31187,101.894468,Baikal grayling,,Angling,204,185,167,F,17,,9.1,,,,,,,,,12.2,,,,,,,,,,,,,,,,,,,,,63.9,0.03,,59.7,1.55,,,Yes,0,,MS; juvenile
+CTM_G056,CTM_BG027,8/5/2026,Uur Spring,50.31187,101.894468,Baikal grayling,,Angling,171,162,140,F,16,,9.1,,,,,,,,,9.7,,,,,,,,,,,,,,,,,,,,,37,0.16,,33.7,0.95,,,Yes,0,,MS; juvenile
+CTM_G057,CTM_BG028,8/5/2026,Uur Spring,50.31187,101.894468,Baikal grayling,,Angling,175,162,145,,15,,8.7,,,,,,,,,11.1,,,,,,,,,,,,,,,,,,,,,42.8,0.03,,39.4,0.97,,,Yes,0,,MS; juvenile
+CTM_G058,CTM_BG029,8/5/2026,Uur Spring,50.31187,101.894468,Baikal grayling,,Angling,240,220,197,F,17,,9.8,,,,,,,,,15.2,,,,,,,,,,,,,,,,,,,,,108.4,1.76,Two - 3,99.4,3.06,Ants,,Yes,0,,MS; 1 otolith broken 
+G145,BG010,8/5/2026,Uur Spring,50.31187,101.894468,Baikal grayling,,Angling,214,195,177,M,,,9.9,,,,,,,,,13,,,,,,,,,,,,,,,,,,,,,74.6,0.28,One - 2,69.1,2.29,,,Yes,0,,MS
+CTM_G059,CTM_BG030,8/5/2026,Uur Spring,50.31187,101.894468,Baikal grayling,,Angling,186,171,153,,16,,9.2,,,,,,,,,11.2,,,,,,,,,,,,,,,,,,,,,48.9,,,45.7,1.1,,,Yes,0,,MS; juvenile
+PIT_BL003,,8/6/2026,Selenge Refuge,49.43273,103.48537,Lenok,4 cm,Net A2,420,394,360,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,728,5.73,3,677,13,Caddis fly cases (full stomach),,Yes,0,,MS; FC
+PIT_BL002,,8/6/2026,Selenge Refuge,49.43273,103.48537,Lenok,4 cm,Net A2,357,337,310,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,392,0.74,1,369,8.8,Caddis fly cases (full stomach),,Yes,0,,"MS, FC"
+PIT_BL001,,8/6/2026,Selenge Refuge,49.43273,103.48537,Lenok,4 cm,Net A2,357,336,308,M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,392,0.23,1,365,11.38,1 rock and some caddis cases (partial full),,Yes,0,,"MS, FC"
+PIT_D001,,8/6/2026,Selenge Refuge,49.43273,103.48537,Dace,3 cm,Net A2,208,,169,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,91.8,3.4,Two - 3,77.2,4.56, all digested (full stomach),,Yes,0,,MS #1; one oto white and one brown; stomach not in good shape
+PIT_D004,,8/6/2026,Selenge Refuge,49.43273,103.48537,Dace,2 cm,Net A2,216,,175,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100.4,5.38,Two - 3,85.7,,,,Yes,0,,MS #2; stomach not in good shape
+PIT_G002,PIT_BG002,8/6/2026,Selenge Refuge,49.43273,103.48537,Baikal grayling,3 cm,Net A2,227,211,195,F,15,,10,,,,,,,,,13.8,,,,,,,,,,,,,,,,,,,,,93.5,0.23,One - 2,85.9,2.2,All digested (stomach partially full),,Yes,0,,MS; PIT tag retrieved 
+PIT_G003,PIT_BG003,8/6/2026,Selenge Refuge,49.43273,103.48537,Baikal grayling,4 cm,Net A2,304,282,261,M,15,,11.1,,,,,,,,,19.2,,,,,,,,,,,,,,,,,,,,,269,3,3,238.1,8.95,"Dragonfly larvae, bee, beetle, ants, lots of terrestrial inverts (full stomach)",,Yes,0,,MS; fish swallowed paper
+PIT_D008,,8/6/2026,Selenge Refuge,49.43273,103.48537,Dace,3 cm,Net A2,211,,175,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,91.8,6.09,Two - 3,77.2,,Some digested stuff (stomach falling apart),,Yes,0,,MS #3; mistaken label so was PIT__G001
+PIT_BL004,,8/6/2026,Selenge Refuge,49.43273,103.48537,Lenok,4 cm ,Net A1,569,544,505,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1931,26.6,3,1759,38.61,Empty,,Yes,0,,MS; FC
+PIT_G005,PIT_BG005,8/6/2026,Selenge Refuge,49.43273,103.48537,Baikal grayling,2 cm ,Net A1,276,252,230,F,16,,11.8,,,,,,,,,16.6,,,,,,,,,,,,,,,,,,,,,187.9,2.45,Two - 3,171.2,5.24,Grasshopper and terrestrial inverts (full stomach),,Yes,0,,MS
+PIT_D007,,8/6/2026,Selenge Refuge,49.43273,103.48537,Dace,2 cm ,Net A1,231,,185,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,114.8,7.95,2,95.9,2.83,Digested stuff (stomach decaying),,Yes,0,,MS #4; 1 otolith; gonads mushy
+PIT_D006,,8/6/2026,Selenge Refuge,49.43273,103.48537,Dace,2 cm ,Net A1,226,,187,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,109.8,6.41,Two - 3,95.8,,Empty,,Yes,0,,MS #5; 1 otolith; stomach unidentifiable 
+PIT_D005,,8/6/2026,Selenge Refuge,49.43273,103.48537,Dace,4 cm ,Net A1,216,,179,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,99,5.84,3,82.4,1.85,Digested things (full stomach),,Yes,0,,
+PIT_D002,,8/6/2026,Selenge Refuge,49.43273,103.48537,Dace,2 cm ,Net A1,232,,192,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,124.7,8.28,3,107.5,,Empty,,Yes,0,,
+PIT_D003,,8/6/2026,Selenge Refuge,49.43273,103.48537,Dace,4 cm ,Net A1,219,,185,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,102.4,4.82,3,88.3,,Empty,,Yes,0,,
+PIT_P001,,8/6/2026,Selenge Refuge,49.43273,103.48537,Perch,2 cm ,Net A1,184,,159,M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,76.4,0.63,1,69.7,1.42,Small fish (partially full),,Yes,0,,Paper with ID in stomach
+PIT_G008,PIT_BG008,8/6/2026,Selenge Refuge,49.43273,103.48537,Baikal grayling,4 cm,Net A1,233,214,199,F,17,,14,,,,,,,,,15,,,,,,,,,,,,,,,,,,,,,94.4,0.4,2,87,3,Digested things (full stomach),,Yes,0,,MS
+PIT_G006,PIT_BG006,8/6/2026,Selenge Refuge,49.43273,103.48537,Baikal grayling,2 cm ,Net A1,289,265,244,F,16,,14,,,,,,,,,17.5,,,,,,,,,,,,,,,,,,,,,196.6,3.41,Two - 3,183.6,4.96,Empty,,Yes,0,,MS
+PIT_G004,PIT_BG004,8/6/2026,Selenge Refuge,49.43273,103.48537,Baikal grayling,2 cm ,Net A1,265,239,223,F,16,,14,,,,,,,,,16,,,,,,,,,,,,,,,,,,,,,160.2,1.67,Two - 3,147.5,4.31,Digested things and caddis case (partially full),,Yes,0,,MS
+CTM_G061,CTM_BG032,8/6/2026,Eg-Uur Camp,50.32802,101.86992,Baikal grayling,,Angling,279,256,239,M,17,,14,,,,,,,,,18,,,,,,,,,,,,,,,,,,,,,179.2,3.51,3,162.1,4.54,Empty,,Yes,0,,MS
+CTM_G060,CTM_BG031,8/6/2026,Eg-Uur Camp,50.32802,101.86992,Baikal grayling,,Angling,145,133,121,F,14,,10,,,,,,,,,9,,,,,,,,,,,,,,,,,,,,,21.9,0.06,,19.9,0.73,Digested things (full stomach),,Yes,0,,MS; juvenile
+CTM_G062,CTM_BG033,8/6/2026,Eg-Uur Camp,50.32802,101.86992,Baikal grayling,,Angling,190,189,161,M,15,,11,,,,,,,,,13,,,,,,,,,,,,,,,,,,,,,51.5,0.05,,47.2,1.62,Empty,,Yes,0,,MS; juvenile
+CTM_BL034,,8/6/2026,Eg-Uur Camp,50.32802,101.86992,Lenok,,Angling,259,239,222,M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,128.8,0.19,One - 2,121.6,1.91,Empty,,Yes,0,,MS; FC
+CTM_BL035,,8/6/2026,Eg-Uur Camp,50.32802,101.86992,Lenok,,Angling,251,234,215,M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,115.9,0.06,,110.4,2.12,,,Yes,0,,MS; FC; juvenile
+BL035,,8/6/2026,Eg-Uur Camp,50.32802,101.86992,Lenok,,Angling,335,311,285,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,318,0.69,One - 2,296,5.34,,,Yes,0,,MS; FC 
+G146,BG011,8/7/2026,Eg-Uur Camp,50.32802,101.86992,Baikal grayling,,Angling,149,136,122,,15,,8.9,,,,,,,,,9.6,,,,,,,,,,,,,,,,,,,,,27.1,0.03,,24.5,1.14,,,No,0,,MS; juvenile
+G147,BG012,8/7/2026,Eg-Uur Camp,50.32802,101.86992,Baikal grayling,,Angling,168,152,137,,16,,8.6,,,,,,,,,9.8,,,,,,,,,,,,,,,,,,,,,33.8,0.09,,30.4,1.45,,,Yes,0,,MS; juvenile; 1 otolith
+G148,BG013,8/7/2026,Eg-Uur Camp,50.32802,101.86992,Baikal grayling,,Angling,152,148,124,,16,,8,,,,,,,,,9.4,,,,,,,,,,,,,,,,,,,,,26.7,0.06,,23.8,1.3,,,Yes,0,,MS; juvenile
+CTM_BL037,,8/8/2026,Last Chance,50.36143,101.86621,Lenok,,Angling,263,244,225,M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,141.7,,1,132.7,2.89,,,Yes,0,,MS; FC; gonads too light
+CTM_BL036,,8/8/2026,Last Chance,50.36143,101.86621,Lenok,,Angling,305,284,263,F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,226,0.36,One - 2,211.1,6.68,Caddis fly cases,,Yes,0,,MS; FC 
+G149,BG014,8/8/2026,Last Chance,50.36143,101.86621,Baikal grayling,,Angling,271,248,230,F,16,,13,,,,,,,,,16.9,,,,,,,,,,,,,,,,,,,,,169.5,2.35,Two - 3,156.6,3.88,Wasp ,,Yes,0,,MS
+G150,BG015,8/8/2026,Last Chance,50.36143,101.86621,Baikal grayling,,Angling,162,146,135,F,16,,9.1,,,,,,,,,9.9,,,,,,,,,,,,,,,,,,,,,32.9,0.07,,29.4,1.19,,,Yes,0,,MS; juvenile; 1 gonad found
+G151,BG016,8/8/2026,Last Chance,50.36143,101.86621,Baikal grayling,,Angling,142,128,119,,15,,7.9,,,,,,,,,8.2,,,,,,,,,,,,,,,,,,,,,21.7,0.1,,19.7,0.87,,,Yes,0,,MS; juvenile; 1 gonad found
+CTM_G049,CTM_BG020,8/8/2026,Eg-Uur Camp,50.32802,101.86992,Baikal grayling,,Angling,153,143,131,,16,,8.9,,,,,,,,,10.9,,,,,,,,,,,,,,,,,,,,,34.6,,,32.1,1.13,,,Yes,0,,MS; juvenile; caudal fin cut off at point; frozen for days; could'nt find gonads
+CTM_BL039,,8/8/2026,Last Chance,50.36143,101.86621,Lenok,,Angling,252,234,213,M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,123.5,0.08,,117.3,2.2,Empty,,Yes,0,,MS; FC; juvenile
+CTM_BL038,,8/8/2026,Last Chance,50.36143,101.86621,Lenok,,Angling,267,248,229,M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,144.2,0.07,,136,2.58,Empty,,Yes,0,,MS; FC; juvenile
+G152,BG017,8/8/2026,Eg-Uur Camp,50.32802,101.86992,Baikal grayling,,Angling,160,157,134,M,16,,9,,,,,,,,,11,,,,,,,,,,,,,,,,,,,,,30.1,0.1,1,27,1.22,1 bee ,,Yes,0,,MS
+G153,BG018,8/8/2026,Eg-Uur Camp,50.32802,101.86992,Baikal grayling,,Angling,162,147,133,M,15,,11,,,,,,,,,10,,,,,,,,,,,,,,,,,,,,,30.2,0.12,1,27.7,1,All digested,,Yes,0,,MS; 1 otolith
+G154,BG019,8/8/2026,Eg-Uur Camp,50.32802,101.86992,Baikal grayling,,Angling,189,162,162,M,16,,10,,,,,,,,,11,,,,,,,,,,,,,,,,,,,,,48.2,0.03,,44.7,1.83,Caddis fly cases,,Yes,0,,MS; juvenile
+BL035,,8/8/2026,Near Uur Spring,50.31187,101.894468,Lenok,,Angling,387,365,335,M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,530,0.44,Two - 3,385,11.16,A lot of ants and beetle,,Yes,0,,MS; FC
+G155,BG020,8/8/2026,Eg-Uur Camp,50.32802,101.86992,Baikal grayling,,Angling,176,159,146,F,16,,10,,,,,,,,,11,,,,,,,,,,,,,,,,,,,,,41.7,0.18,One - 2,38.4,1.62,A lot of ants and beetle (full stomach),,Yes,0,,MS; 1 otolith
+G156,BG021,8/8/2026,Near Uur Spring,50.31187,101.894468,Baikal grayling,,Angling,234,215,198,F,15,,12,,,,,,,,,13.5,,,,,,,,,,,,,,,,,,,,,112.3,1.8,3,97.9,7.72,Stomach full of ants and beetle,,Yes,0,,MS
