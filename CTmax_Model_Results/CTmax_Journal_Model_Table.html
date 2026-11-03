@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>CTmax Candidate Model Comparison</title>
+<style>
+body {font-family: Arial, sans-serif; margin: 35px;}
+h2 {font-size: 19px;}
+p {font-size: 12px; color: #444;}
+table {border-collapse: collapse; width: 100%;}
+th, td {padding: 9px; border-bottom: 1px solid #ddd;}
+th {text-align: left; border-top: 2px solid black;
+border-bottom: 2px solid black;}
+td {font-size: 12px;}
+tr:last-child td {border-bottom: 2px solid black;}
+</style>
+</head>
+<body>
+<h2>Table 1. Candidate models explaining variation in CTmax</h2>
+<p>AICc model comparison; n = 97 fish.</p>
+<table>
+<thead><tr>
+<th>Model</th>
+<th>Model structure</th>
+<th>K</th>
+<th>AICc</th>
+<th>&Delta;AICc</th>
+<th>Akaike weight</th>
+</tr></thead>
+<tbody>
+<tr style="font-weight:bold;background:#f0f0f0;"><td>M10</td><td>ctmax ~ species_group * habitat + weight_g + habitat:weight_g + parasite_burden_percent</td><td>8</td><td>242.58</td><td>0.00</td><td>0.482</td></tr>
+<tr><td>M17</td><td>ctmax ~ species_group * habitat + weight_g + habitat:weight_g + parasite_burden_percent + start_temp</td><td>9</td><td>243.66</td><td>1.07</td><td>0.282</td></tr>
+<tr><td>M19</td><td>ctmax ~ species_group * habitat * weight_g + parasite_burden_percent + start_temp</td><td>11</td><td>244.64</td><td>2.05</td><td>0.173</td></tr>
+<tr><td>M07</td><td>ctmax ~ species_group * habitat + parasite_burden_percent</td><td>6</td><td>248.03</td><td>5.44</td><td>0.032</td></tr>
+<tr><td>M09</td><td>ctmax ~ species_group * habitat + weight_g + parasite_burden_percent</td><td>7</td><td>250.25</td><td>7.66</td><td>0.010</td></tr>
+<tr><td>M15</td><td>ctmax ~ species_group * habitat + parasite_burden_percent + start_temp</td><td>7</td><td>250.35</td><td>7.77</td><td>0.010</td></tr>
+<tr><td>M11</td><td>ctmax ~ species_group * habitat + weight_g + species_group:weight_g + parasite_burden_percent</td><td>8</td><td>252.09</td><td>9.51</td><td>0.004</td></tr>
+<tr><td>M16</td><td>ctmax ~ species_group * habitat + weight_g + parasite_burden_percent + start_temp</td><td>8</td><td>252.62</td><td>10.04</td><td>0.003</td></tr>
+<tr><td>M04</td><td>ctmax ~ species_group * habitat + weight_g + habitat:weight_g</td><td>7</td><td>253.35</td><td>10.77</td><td>0.002</td></tr>
+<tr><td>M18</td><td>ctmax ~ species_group * habitat + weight_g + species_group:weight_g + parasite_burden_percent + start_temp</td><td>9</td><td>254.52</td><td>11.94</td><td>0.001</td></tr>
+<tr><td>M06</td><td>ctmax ~ species_group * habitat * weight_g</td><td>9</td><td>257.08</td><td>14.50</td><td>0.000</td></tr>
+<tr><td>M02</td><td>ctmax ~ species_group * habitat</td><td>5</td><td>257.79</td><td>15.20</td><td>0.000</td></tr>
+<tr><td>M13</td><td>ctmax ~ species_group * habitat + start_temp</td><td>6</td><td>258.56</td><td>15.98</td><td>0.000</td></tr>
+<tr><td>M01</td><td>ctmax ~ species_group + habitat</td><td>4</td><td>259.12</td><td>16.54</td><td>0.000</td></tr>
+<tr><td>M03</td><td>ctmax ~ species_group * habitat + weight_g</td><td>6</td><td>260.01</td><td>17.42</td><td>0.000</td></tr>
+<tr><td>M14</td><td>ctmax ~ species_group * habitat + weight_g + start_temp</td><td>7</td><td>260.88</td><td>18.30</td><td>0.000</td></tr>
+<tr><td>M05</td><td>ctmax ~ species_group * habitat + weight_g + species_group:weight_g</td><td>7</td><td>262.33</td><td>19.75</td><td>0.000</td></tr>
+</tbody></table>
+<p>Continuous predictors use original biological units.
+K includes residual variance.
+The best-supported model is bold.</p>
+</body>
+</html>

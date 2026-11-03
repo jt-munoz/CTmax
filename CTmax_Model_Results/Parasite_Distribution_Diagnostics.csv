@@ -1,0 +1,5 @@
+"species","habitat","n","parasite_positive","parasite_zero","prevalence_percent","mean_burden_percent","sd_burden_percent","minimum_burden_percent","maximum_burden_percent"
+"Grayling","lake",25,19,6,76,0.428526431065093,0.559485404104369,0,1.69491525423729
+"Grayling","river",31,0,31,0,0,0,0,0
+"Lenok","lake",28,27,1,96.4285714285714,0.13403671776312,0.0997707256989708,0,0.34654919236417
+"Lenok","river",13,0,13,0,0,0,0,0

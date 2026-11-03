@@ -1,0 +1,3 @@
+"rank","model_id","model_structure","n","K","AIC","AICc","delta_AICc","akaike_weight","cumulative_weight","R2","adjusted_R2"
+1,"M10","ctmax ~ species_group * habitat + weight_g + habitat:weight_g + parasite_burden_percent",97,8,240.947779296778,242.584142933141,0,0.481922501274248,0.481922501274248,0.725392546981911,0.707085383447372
+2,"M17","ctmax ~ species_group * habitat + weight_g + habitat:weight_g + parasite_burden_percent + start_temp",97,9,241.589919557228,243.658885074469,1.07474214132762,0.281578773915193,0.763501275189442,0.729209873384671,0.707911773538521

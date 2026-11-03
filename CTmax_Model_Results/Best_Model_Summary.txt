@@ -1,0 +1,24 @@
+
+Call:
+stats::lm(formula = current_formula, data = analysis_data, na.action = stats::na.fail)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-1.90371 -0.49958  0.05133  0.44335  1.98011 
+
+Coefficients:
+                                  Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                     26.4808080  0.2317508 114.264  < 2e-16 ***
+species_groupLenok               0.0572469  0.2882884   0.199 0.843043    
+habitatriver                     3.1357117  0.3150871   9.952  3.6e-16 ***
+weight_g                         0.0005134  0.0007269   0.706 0.481798    
+parasite_burden_percent          1.0380933  0.2872109   3.614 0.000496 ***
+species_groupLenok:habitatriver  0.8869317  0.4093601   2.167 0.032905 *  
+habitatriver:weight_g           -0.0069948  0.0022326  -3.133 0.002336 ** 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.8009 on 90 degrees of freedom
+Multiple R-squared:  0.7254,	Adjusted R-squared:  0.7071 
+F-statistic: 39.62 on 6 and 90 DF,  p-value: < 2.2e-16
+
