@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>CTmax Candidate Model Comparison</title>
+<style>
+body {font-family: Arial, sans-serif; margin: 35px;}
+h2 {font-size: 19px;}
+p {font-size: 12px; color: #444;}
+table {border-collapse: collapse; width: 100%;}
+th, td {padding: 9px; border-bottom: 1px solid #ddd;}
+th {text-align: left; border-top: 2px solid black;
+border-bottom: 2px solid black;}
+td {font-size: 12px;}
+tr:last-child td {border-bottom: 2px solid black;}
+</style>
+</head>
+<body>
+<h2>Table 1. Candidate models explaining variation in CTmax</h2>
+<p>AICc model comparison; n = 97 fish.</p>
+<table>
+<thead><tr>
+<th>Model</th>
+<th>Model structure</th>
+<th>K</th>
+<th>AICc</th>
+<th>&Delta;AICc</th>
+<th>Akaike weight</th>
+</tr></thead>
+<tbody>
+<tr style="font-weight:bold;background:#f0f0f0;"><td>M26</td><td>ctmax ~ species_group * habitat + weight_g + habitat:weight_g + fultons_k + parasite_burden_percent</td><td>9</td><td>237.64</td><td>0.00</td><td>0.593</td></tr>
+<tr><td>M27</td><td>ctmax ~ species_group * habitat + weight_g + habitat:weight_g + fultons_k + parasite_burden_percent + start_temp</td><td>10</td><td>239.75</td><td>2.11</td><td>0.206</td></tr>
+<tr><td>M21</td><td>ctmax ~ species_group * habitat + fultons_k + parasite_burden_percent</td><td>7</td><td>242.29</td><td>4.65</td><td>0.058</td></tr>
+<tr><td>M10</td><td>ctmax ~ species_group * habitat + weight_g + habitat:weight_g + parasite_burden_percent</td><td>8</td><td>242.58</td><td>4.95</td><td>0.050</td></tr>
+<tr><td>M17</td><td>ctmax ~ species_group * habitat + weight_g + habitat:weight_g + parasite_burden_percent + start_temp</td><td>9</td><td>243.66</td><td>6.02</td><td>0.029</td></tr>
+<tr><td>M24</td><td>ctmax ~ species_group * habitat + fultons_k + parasite_burden_percent + start_temp</td><td>8</td><td>244.36</td><td>6.73</td><td>0.021</td></tr>
+<tr><td>M19</td><td>ctmax ~ species_group * habitat * weight_g + parasite_burden_percent + start_temp</td><td>11</td><td>244.64</td><td>7.00</td><td>0.018</td></tr>
+<tr><td>M22</td><td>ctmax ~ species_group * habitat + fultons_k + habitat:fultons_k + parasite_burden_percent</td><td>8</td><td>244.66</td><td>7.03</td><td>0.018</td></tr>
+<tr><td>M07</td><td>ctmax ~ species_group * habitat + parasite_burden_percent</td><td>6</td><td>248.03</td><td>10.39</td><td>0.003</td></tr>
+<tr><td>M20</td><td>ctmax ~ species_group * habitat + fultons_k</td><td>6</td><td>248.40</td><td>10.77</td><td>0.003</td></tr>
+<tr><td>M09</td><td>ctmax ~ species_group * habitat + weight_g + parasite_burden_percent</td><td>7</td><td>250.25</td><td>12.61</td><td>0.001</td></tr>
+<tr><td>M11</td><td>ctmax ~ species_group * habitat + weight_g + species_group:weight_g + parasite_burden_percent</td><td>8</td><td>252.09</td><td>14.46</td><td>0.000</td></tr>
+<tr><td>M16</td><td>ctmax ~ species_group * habitat + weight_g + parasite_burden_percent + start_temp</td><td>8</td><td>252.62</td><td>14.99</td><td>0.000</td></tr>
+<tr><td>M04</td><td>ctmax ~ species_group * habitat + weight_g + habitat:weight_g</td><td>7</td><td>253.35</td><td>15.72</td><td>0.000</td></tr>
+<tr><td>M06</td><td>ctmax ~ species_group * habitat * weight_g</td><td>9</td><td>257.08</td><td>19.44</td><td>0.000</td></tr>
+<tr><td>M02</td><td>ctmax ~ species_group * habitat</td><td>5</td><td>257.79</td><td>20.15</td><td>0.000</td></tr>
+<tr><td>M13</td><td>ctmax ~ species_group * habitat + start_temp</td><td>6</td><td>258.56</td><td>20.92</td><td>0.000</td></tr>
+<tr><td>M01</td><td>ctmax ~ species_group + habitat</td><td>4</td><td>259.12</td><td>21.49</td><td>0.000</td></tr>
+<tr><td>M03</td><td>ctmax ~ species_group * habitat + weight_g</td><td>6</td><td>260.01</td><td>22.37</td><td>0.000</td></tr>
+<tr><td>M05</td><td>ctmax ~ species_group * habitat + weight_g + species_group:weight_g</td><td>7</td><td>262.33</td><td>24.69</td><td>0.000</td></tr>
+</tbody></table>
+<p>Continuous predictors use original biological units.
+K in the table is the number of estimated model parameters,
+including residual variance.
+The best-supported model is bold.</p>
+</body>
+</html>
